@@ -1,6 +1,6 @@
 # 🌌 Welcome to My Digital Playground 🌌
 ## 👋 Meet the Creative Coder Behind the Keyboard
-##### Hi there! My name is Hayden Galyean and I'm a developer who thrives at the intersection of art and technology. My journey began in the world of Technical Art, where I learned to blend creativity with precision. Today, I channel that ##### H5fusion into software development, crafting digital experiences that are as visually compelling as they are technically robust.
+##### Hi there! My name is Hayden Galyean and I'm a developer who thrives at the intersection of art and technology. My journey began in the world of Technical Art, where I learned to blend creativity with precision. Today, I channel that fusion into software development, crafting digital experiences that are as visually compelling as they are technically robust.
 
 ## 🌱 My Development Journey
 ##### Every line of code I write is part of a larger narrative—a story where creativity meets logic, and where innovation is the plot twist. Here's how I approach my work:
