@@ -1,18 +1,18 @@
 # 🌌 Welcome to My Digital Playground 🌌
 ## 👋 Meet the Creative Coder Behind the Keyboard
-##### H5Hi there! My name is Hayden Galyean and I'm a developer who thrives at the intersection of art and technology. My journey began in the world of Technical Art, where I learned to blend creativity with precision. Today, I channel that ##### H5fusion into software development, crafting digital experiences that are as visually compelling as they are technically robust.
+##### Hi there! My name is Hayden Galyean and I'm a developer who thrives at the intersection of art and technology. My journey began in the world of Technical Art, where I learned to blend creativity with precision. Today, I channel that ##### H5fusion into software development, crafting digital experiences that are as visually compelling as they are technically robust.
 
 ## 🌱 My Development Journey
-##### H5Every line of code I write is part of a larger narrative—a story where creativity meets logic, and where innovation is the plot twist. Here's how I approach my work:
+##### Every line of code I write is part of a larger narrative—a story where creativity meets logic, and where innovation is the plot twist. Here's how I approach my work:
 
-##### H5The Art of Code: I see coding as a form of digital artistry. Whether it's a sleek front-end design or an intricate back-end process, I approach development with an artist's eye for detail and a coder's passion for problem-solving.
+##### The Art of Code: I see coding as a form of digital artistry. Whether it's a sleek front-end design or an intricate back-end process, I approach development with an artist's eye for detail and a coder's passion for problem-solving.
 
-##### H5Challenge Accepted: To me, challenges are puzzles waiting to be solved. I love diving into complex issues, unraveling them, and emerging with elegant, efficient solutions that push the boundaries of what's possible.
+##### Challenge Accepted: To me, challenges are puzzles waiting to be solved. I love diving into complex issues, unraveling them, and emerging with elegant, efficient solutions that push the boundaries of what's possible.
 
-##### H5Endless Curiosity: I’m a lifelong learner, always on the hunt for the next piece of tech to master. Whether it's a new framework, tool, or concept, I’m eager to explore and integrate it into my work.
+##### Endless Curiosity: I’m a lifelong learner, always on the hunt for the next piece of tech to master. Whether it's a new framework, tool, or concept, I’m eager to explore and integrate it into my work.
 
 ## ✨ A Glimpse into My Projects
-##### H5Here’s where the magic happens—take a peek at some of my favorite creations:
+##### Here’s where the magic happens—take a peek at some of my favorite creations:
 
 ##### Planet Airbnb: An intergalactic twist on vacation rentals, where users can book stays on far-off planets. Powered by React and Redux, this project is a testament to my ability to combine technical skills with out-of-this-world creativity.
 
