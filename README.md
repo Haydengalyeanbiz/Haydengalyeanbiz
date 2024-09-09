@@ -14,6 +14,8 @@
 ## ✨ A Glimpse into My Projects
 ##### Here’s where the magic happens—take a peek at some of my favorite creations:
 
+#### 8Bit Gaming: 8Bit is a modern eCommerce platform dedicated to video game enthusiasts. It combines the nostalgia of retro gaming with sleek, contemporary design. Built with React and Redux, the site allows users to browse, purchase, and review a wide variety of video games, consoles, and accessories.
+
 ##### Planet Airbnb: An intergalactic twist on vacation rentals, where users can book stays on far-off planets. Powered by React and Redux, this project is a testament to my ability to combine technical skills with out-of-this-world creativity.
 
 ##### Cosmic Cartoons: A collection of custom SVG planets like Saturn and Mars, designed with a playful touch. This project merges my love for visual art and coding, offering a fun, interactive experience that’s both educational and entertaining.
