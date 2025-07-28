@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hayden+Galyean;Full-Stack+Engineer;Rust+%7C+React+%7C+Python)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;Rust+%7C+React+%7C+Python)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
