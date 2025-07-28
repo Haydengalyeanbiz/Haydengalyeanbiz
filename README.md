@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Open-Source+Contributor;Rust+%7C+React+%7C+Python)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hayden+Galyean;Full-Stack+Engineer;Rust+%7C+React+%7C+Python)
 
 Hey there! I'm **Hayden Galyean**, a full-stack software engineer based in Indianapolis, IN.  
 I thrive on building **efficient, dynamic, and user-focused products** that bring ideas to life.  
