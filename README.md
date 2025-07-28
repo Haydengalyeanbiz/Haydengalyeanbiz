@@ -1,8 +1,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hayden+Galyean;Full-Stack+Engineer;Rust+%7C+React+%7C+Python)
 
-Hey there! I'm **Hayden Galyean**, a full-stack software engineer based in Indianapolis, IN.  
-I thrive on building **efficient, dynamic, and user-focused products** that bring ideas to life.  
-Outside of coding, I’m fueled by a love for tattoos and music that gets my foot tapping.
+Welcome to my GitHub!
+I'm Hayden Galyean, a full-stack software engineer based in Indianapolis, IN, passionate about transforming ideas into efficient, dynamic, and user-focused products.
+I love tackling complex problems, crafting clean solutions, and building technology that makes a real impact.
+
+When I’m not coding, I’m exploring tattoo art or vibing to music that keeps me inspired.
+Let’s connect and bring ideas to life!
+
+[![Email](https://img.shields.io/badge/Email-haydengalyeanbiz%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haydengalyeanbiz@gmail.com)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
