@@ -17,4 +17,4 @@ Let’s connect and bring ideas to life!
 
 [![Email](https://img.shields.io/badge/Email-haydengalyeanbiz%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haydengalyeanbiz@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haydengalyeanbiz&langs_count=10&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haydengalyeanbiz&langs_count=7&layout=compact&theme=synthwave)
