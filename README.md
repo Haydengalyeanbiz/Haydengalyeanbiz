@@ -10,5 +10,4 @@ Outside of coding, I’m fueled by a love for tattoos and music that gets my foo
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![Haydengalyeanbiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Haydengalyeanbiz.Haydenagalyeanbiz)
+![Haydengalyeanbiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haydengalyeanbiz&show_icons=true&theme=radical)
